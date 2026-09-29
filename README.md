@@ -1,2 +1,2 @@
 # BOOTSTAP
-WEBPROJECT DESCRIPTION
+bootstrap description
